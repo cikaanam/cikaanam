@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning the basics of Git and GitHub to manage geospatial data and analysis scripts related to land resource planning<br>🎯 Goals: Creating a reposity on GitHub to store and track changes to spatial planning data and collaborate with a team on the same project<br>🎲 Fun fact: Does not like vegetable</p>
 
 ###
 
